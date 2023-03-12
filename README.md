@@ -60,6 +60,9 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 ## Changelog:
 * 0.1b   - Just working.
 
+## Note ig:
+- If the `executor` say `nil` or soemthing weird, that's custom executor.
+
 ## Special thank:
 - [V3rmillion](v3rmillion.net)
 - Roblox Dev
