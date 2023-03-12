@@ -33,6 +33,7 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 ## TODO:
 - [ ] Profile Picture
 - [ ] Full log
+- [ ] Locating
 - [ ] "JustNormalHax"
 - [ ] Grabber maker (C#)
 
