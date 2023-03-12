@@ -31,6 +31,7 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 - [X] Show the Exploit/Executor
 
 ## TODO:
+- [ ] Profile Picture
 - [ ] Full log
 - [ ] "JustNormalHax"
 - [ ] Grabber maker (C#)
