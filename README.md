@@ -66,6 +66,6 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 - If the `executor` say `nil` or something weird, that's custom executor.
 
 ## Special thank:
-- [V3rmillion](v3rmillion.net)
+- [V3rmillion](https://v3rmillion.net)
 - Roblox Dev
-- [StackOverflow](stackoverflow.com)
+- [StackOverflow](https://stackoverflow.com)
