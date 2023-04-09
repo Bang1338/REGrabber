@@ -4,14 +4,14 @@ REGrabber
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1069258654320164935/1084315605945024564/Discord_wdhKavVlYO.png">
+<img src="https://cdn.discordapp.com/attachments/1079699632206127145/1094470568214020116/Discord_Svo1MM3dI4.png">
   </kbd>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-lua-darkblue">
   <img src="https://img.shields.io/github/languages/top/Bang1338/REGrabber">
-  <img src="https://img.shields.io/badge/version-0.1b-yellow">
+  <img src="https://img.shields.io/badge/version-0.2b-yellow">
 </p>
 
 <h3 align="center">
@@ -29,12 +29,13 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 - [X] Grab/Log Username + UserID + PlaceID
 - [X] Show what membership is
 - [X] Show the Exploit/Executor
+- [X] Client log
+- [X] Locating
 
 ## TODO:
 - [ ] Profile Picture
-- [ ] Client log
-- [ ] Locating
 - [ ] "JustNormalHax"
+- [ ] Shodan API
 - [ ] Grabber maker (C#)
 
 ## Using:
