@@ -62,6 +62,7 @@ By using **THIS SCRIPT**, you agree that you **hold responsibility** and account
 
 ## Changelog:
 * 0.1b   - Just working.
+* 0.2b   - Added client log and locating
 
 ## Note ig:
 - If the `executor` say `nil` or something weird, that's custom executor.
